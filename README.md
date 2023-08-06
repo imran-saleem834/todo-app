@@ -6,4 +6,5 @@
 - Run command `php artisan migrate`
 - Run command `php artisan db:seed`
 - Run command `php artisan serve`
+- Run command `npm i`
 - Run command `npm run dev`
